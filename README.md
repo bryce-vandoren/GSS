@@ -7,4 +7,4 @@ Analysis of the General Social Survey
 * [Google Drive for Literature Review](https://drive.google.com/drive/folders/1bVaP7iraHz7OxE_Xz8-u1-oK2UPKBYeg?usp=sharing) -- Shared Google drive for literature review for the paper.
   * Starting search terms: "general social survey" "civil liberties" tolerance
   * Also consider: "general social survey" "Stouffer" trends
-* [NORC Review of Stouffer Civil Liberties Items](http://www.gss.norc.org/Documents/reports/topical-reports/TR42%20A%20Review%20of%20the%20Stouffer%20Civil%20Liberties%20Items%20on%20the%20General%20Social%20Survey.pdf)
+* [NORC Review of Stouffer Civil Liberties Items](http://www.gss.norc.org/Documents/reports/topical-reports/TR42%20A%20Review%20of%20the%20Stouffer%20Civil%20Liberties%20Items%20on%20the%20General%20Social%20Survey.pdf) -- PDF Report on the Stouffer Civil Liberties Items (used for the potential paper).
